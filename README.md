@@ -6,3 +6,5 @@ Since I was completely new to Ctrlr and LUA scripting I had a lot of help by rea
 
 Program Dump
 
+
+![Screenshot](https://github.com/fyfno/NymphesCTRLR/blob/main/EditorScreenshot.png)
